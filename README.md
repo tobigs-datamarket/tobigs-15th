@@ -23,7 +23,7 @@
 
 | 주차 | 강의명 | 우수과제자 |
 | :--- | :--- | :--- |
-| 1week | [전처리와 EDA](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/1wk_%EC%A0%84%EC%B2%98%EB%A6%AC%26EDA/%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80%20EDA_14%EA%B8%B0%20%EC%9D%B4%ED%98%9C%EB%A6%B0.ipynb) | 15기 이혜린 |
+| 1week | [전처리와 EDA](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/1wk_EDA/EDA_15%EA%B8%B0%20%EC%9D%B4%EC%84%B1%EB%B2%94.ipynb) | 15기 이성범 |
 
 
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
