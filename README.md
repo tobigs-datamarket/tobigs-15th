@@ -21,9 +21,4 @@
 
 [google sites](#)
 
-| 주차 | 강의명 | 우수과제자 |
-| :--- | :--- | :--- |
-| 1week | [전처리와 EDA](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/1wk_EDA/EDA_15%EA%B8%B0%20%EC%9D%B4%EC%84%B1%EB%B2%94.ipynb) | 15기 이성범 |
-
-
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
