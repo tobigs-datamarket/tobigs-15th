@@ -37,7 +37,7 @@
 | 3week | [KNN&Clustering \(2\)](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/3wk_KNN%26Clustering/Clustering_assignment.ipynb) | [15기 조준혁](https://github.com/Junhyeok1015) |
 | 3week | [NaiveBayes](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/3wk_DT%26NB/week3_NaiveBayes_15%EA%B8%B0%20%EC%9D%B4%EC%84%B1%EB%B2%94.ipynb) | [15기 이성범](https://github.com/SeongBeomLEE) |
 | 3week | [의사결정나무 \(1\)](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/3wk_DT%26NB/DT_Assignment1_15%EA%B8%B0%20%EC%A1%B0%EC%A4%80%ED%98%81.ipynb) | [15기 조준혁](https://github.com/Junhyeok1015) |
-| 3week | [의사결정나무 \(2\)](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/3wk_DT%26NB/wk3_decisiontree_assignment2_15%EA%B8%B0%20%EC%98%A4%EC%A3%BC%EC%98%81.ipynbb) | [15기 오주영](https://github.com/Jy0923) | 
+| 3week | [의사결정나무 \(2\)](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/3wk_DT%26NB/wk3_decisiontree_assignment2_15%EA%B8%B0%20%EC%98%A4%EC%A3%BC%EC%98%81.ipynb) | [15기 오주영](https://github.com/Jy0923) | 
 | 4week | [SVM](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/4wk_SVM/SVM_assignment_1_15%EA%B8%B0%20%EC%95%88%EB%AF%BC%EC%A4%80.ipynb) | [15기 안민준](https://github.com/YMGYM) |
 | 4week | [SVM](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/4wk_SVM/wk4_svm_assignment_15%EA%B8%B0%20%EC%98%A4%EC%A3%BC%EC%98%81.ipynb) | [15기 오주영](https://github.com/Jy0923) |
 | 4week | [Ensemble](https://github.com/tobigs-datamarket/tobigs-15th/blob/main/4wk_Ensemble/wk4_ensemble_assignment_15%EA%B8%B0%20%EC%98%A4%EC%A3%BC%EC%98%81.ipynb) | [15기 오주영](https://github.com/Jy0923) |
